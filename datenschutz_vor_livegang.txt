@@ -1,0 +1,14 @@
+SPEEDYCLEAN – DATENSCHUTZ-CHECKLISTE (LIVE-WEBSITE)
+
+Die Website enthält eine Datenschutzerklärung und ein Impressum als Entwurf nach Ihren
+Angaben. Diese Vorlagen wurden durch die SEO-Korrektur nicht rechtlich geprüft.
+
+- Tally-Formular: Datenschutzlink auf https://speedyclean-hvl.de/datenschutz.html setzen.
+- Prüfen, ob der Einsatz von Tally (inklusive hochgeladener Fotos), E-Mail-Verarbeitung
+  und Hosting bei Netlify vollständig und richtig in der Datenschutzerklärung steht.
+- Nachsehen, welche Auftragsverarbeitungsverträge, Löschfristen und Kontoeinstellungen gelten.
+- Ändert sich der Einsatz von Diensten (z.B. Analytics, Karten, externe Videos),
+  die Datenschutzerklärung gegebenenfalls anpassen.
+- Impressum auf gesetzliche Pflichtangaben prüfen.
+
+Die bisherigen Suchmaschinensperren wurden in dieser Version entfernt.

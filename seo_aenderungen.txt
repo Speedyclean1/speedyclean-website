@@ -1,0 +1,5 @@
+Alle 14 HTML-Seiten: robots=index,follow; kanonische Domain ohne www.
+robots.txt: Crawl erlaubt und Sitemap angegeben.
+Netlify: globale X-Robots-Tag-Sperre entfernt (_headers nicht mehr enthalten).
+Fotos, Layout und Funktionen unveraendert.
+Siehe README.txt fuer Upload und Google Search Console.
