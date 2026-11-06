@@ -38,3 +38,4 @@ WICHTIG:
   insbesondere die Nutzung von Tally und Foto-Uploads. Nicht Bestandteil einer Rechtsberatung.
 - Der Link zur Datenschutzerklärung im Tally-Formular muss auf
   https://speedyclean-hvl.de/datenschutz.html zeigen.
+
